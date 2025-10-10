@@ -3,5 +3,10 @@
 
 ### En este archivo README se encuentran las acctividades sobre el instrumento de la Unidad 2 de la materia "Creación de Videojuegos"
 
---Primero se tiene la actividad del Tutorial 1 
+--Actividad 1 (Tutorial 1 2D)
+https://drive.google.com/file/d/1NbsPHsym2uyyXY0R5BSmVnXVpq-DlNHm/view?usp=sharing 
+
+--Actividad 2 (Pixel Adventure 1)
+
+
 
