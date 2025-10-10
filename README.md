@@ -7,6 +7,3 @@
 https://drive.google.com/file/d/1NbsPHsym2uyyXY0R5BSmVnXVpq-DlNHm/view?usp=sharing 
 
 --Actividad 2 (Pixel Adventure 1)
-
-
-
