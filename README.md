@@ -1,7 +1,7 @@
 # Instrumento_U2_Creación_de_Videojuegos
 ## Maribel Ramírez Torres    GIDS5102
 
-### En este archivo README se encuentran las actividades sobre el instrumento de la Unidad 2 de la materia "Creación de Videojuegos"
+### En este archivo README se encuentran las actividades de la Unidad 2 de la materia "Creación de Videojuegos"
 
 
 ### Actividades en Plataforma Unity <img width="23" height="23" alt="image" src="https://github.com/user-attachments/assets/6c552379-fce4-4c07-9227-b6faf0c8456e" />
