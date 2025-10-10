@@ -6,10 +6,10 @@
 
 ### Actividades en Plataforma Unity
 
---Actividad 1_Tutorial 1 2D
+--Actividad 1_Tutorial 1 2D: 
 https://drive.google.com/file/d/1NbsPHsym2uyyXY0R5BSmVnXVpq-DlNHm/view?usp=sharing 
 
---Actividad 2_Plataformas 2D_Pixel Adventure: movimientos
+--Actividad 2_Plataformas 2D_Pixel Adventure_ Movimientos
 
 --Actividad 3_Plataformas 2D_Pixxel Adventure
 
