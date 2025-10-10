@@ -10,9 +10,9 @@
 --Actividad 1_Tutorial 1 2D: 
 https://drive.google.com/file/d/1NbsPHsym2uyyXY0R5BSmVnXVpq-DlNHm/view?usp=sharing 
 
---Actividad 2_Plataformas 2D_Pixel Adventure_Movimientos Básicos
+--Actividad 2_Plataformas 2D_Pixel Adventure_Escenario
 
---Actividad 3_Plataformas 2D_Pixxel Adventure
+--Actividad 3_Plataformas 2D_Pixel Adventure_Movimientos Básicos
 
 --Actividad 4_Menú
 
