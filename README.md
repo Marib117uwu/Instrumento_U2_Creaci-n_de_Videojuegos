@@ -20,5 +20,6 @@ https://drive.google.com/file/d/1NbsPHsym2uyyXY0R5BSmVnXVpq-DlNHm/view?usp=shari
 
 
 
-### Actividades Plataforma Aprende.org
+### Actividades Plataforma Aprende.org <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/d930474d-f38d-4364-92d9-09ff8052eeee" />
+
 
