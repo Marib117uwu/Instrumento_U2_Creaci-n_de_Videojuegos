@@ -4,7 +4,7 @@
 ### En este archivo README se encuentran las actividades sobre el instrumento de la Unidad 2 de la materia "Creación de Videojuegos"
 
 
-### Actividades Unity
+### Actividades en Plataforma Unity
 
 --Actividad 1_Tutorial 1 2D
 https://drive.google.com/file/d/1NbsPHsym2uyyXY0R5BSmVnXVpq-DlNHm/view?usp=sharing 
@@ -14,3 +14,9 @@ https://drive.google.com/file/d/1NbsPHsym2uyyXY0R5BSmVnXVpq-DlNHm/view?usp=shari
 --Actividad 3_Pixel Adventure:
 
 --Actividad 4_Menú
+
+### Actividades del Instrumento de Evaluación
+
+
+### Actividades Plataforma Aprende.org
+
