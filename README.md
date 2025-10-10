@@ -14,7 +14,6 @@ https://drive.google.com/file/d/1NbsPHsym2uyyXY0R5BSmVnXVpq-DlNHm/view?usp=shari
 
 --Actividad 3_Plataformas 2D_Pixel Adventure_Movimientos Básicos
 
---Actividad 4_Menú
 
 ### Actividades del Instrumento de Evaluación <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/9b74a58f-0a38-45c1-b912-e78f5339aef5" />
 
