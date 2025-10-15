@@ -2,9 +2,9 @@
 ## Nombre: *Maribel Ramírez Torres*    
 ## Grupo *GIDS5102*
 
-### Este repositorio contiene las actividades correspondientes a la Unidad 2 de la materia "Creación de Videojuegos".
-### Aquí se incluyen los ejercicios realizados en Unity, el instrumento de evaluación, y las actividades complementarias de la plataforma Aprende.org.
-### Además, se presenta el videojuego desarrollado durante la unidad, con su respectiva descripción, temática, mecánicas y objetivos.
+### *Este repositorio contiene las actividades correspondientes a la Unidad 2 de la materia "Creación de Videojuegos".*
+### *Aquí se incluyen los ejercicios realizados en Unity, el instrumento de evaluación, y las actividades complementarias de la plataforma Aprende.org.*
+### *Además, se presenta el videojuego desarrollado durante la unidad, con su respectiva descripción, temática, mecánicas y objetivos.*
 
 ### Actividades en Plataforma Unity <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/6c552379-fce4-4c07-9227-b6faf0c8456e" />
 
