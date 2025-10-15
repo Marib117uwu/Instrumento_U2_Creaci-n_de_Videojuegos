@@ -16,9 +16,9 @@ Grupo *GIDS5102*
 --Actividad 1_Tutorial 1 2D: 
 https://drive.google.com/file/d/1NbsPHsym2uyyXY0R5BSmVnXVpq-DlNHm/view?usp=sharing 
 
---Actividad 2_Plataformas 2D_Pixel Adventure_Escenario
+--Actividad 2_Plataformas 2D_Pixel Adventure_Movimientos Básicos:
 
---Actividad 3_Plataformas 2D_Pixel Adventure_Movimientos Básicos
+
 
 
 ## Actividades del Instrumento de Evaluación <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/9b74a58f-0a38-45c1-b912-e78f5339aef5" />
