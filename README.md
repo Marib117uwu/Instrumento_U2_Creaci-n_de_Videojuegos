@@ -6,9 +6,12 @@
 ### *Aquí se incluyen los ejercicios realizados en Unity, el instrumento de evaluación, y las actividades complementarias de la plataforma Aprende.org.*
 ### *Además, se presenta el videojuego desarrollado durante la unidad, con su respectiva descripción, temática, mecánicas y objetivos.*
 
+
 ### Actividades en Plataforma Unity <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/6c552379-fce4-4c07-9227-b6faf0c8456e" />
 
+## 🎮 Juego Plataformas 2D_Pixel Adventure
 
+*Pixel Adventure es un videojuego de plataformas en 2D que combina exploración y desafíos de salto. El jugador controla a un personaje que debe recorrer diferentes escenarios, superar obstáculos y recolectar objetos*
 --Actividad 1_Tutorial 1 2D: 
 https://drive.google.com/file/d/1NbsPHsym2uyyXY0R5BSmVnXVpq-DlNHm/view?usp=sharing 
 
